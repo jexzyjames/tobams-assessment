@@ -23,7 +23,7 @@ export default function LearningMgt() {
 
       <div className="flex flex-wrap">
     <div className="">
- <div className="h-[390px] w-[390px] mt-4 shrink-0">
+ <div className="h-97.5 w-97.5 mt-4 shrink-0">
   <Image
     src={image}
     width={327}
